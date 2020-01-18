@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+lib/Text/Glob.pm
+Makefile.PL
+Build.PL
+META.yml
+t/Text-Glob.t
