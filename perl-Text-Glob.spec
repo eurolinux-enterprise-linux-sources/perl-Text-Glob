@@ -1,6 +1,6 @@
 Name: 		perl-Text-Glob
 Version: 	0.09
-Release: 	6.1%{?dist}
+Release: 	7%{?dist}
 Summary: 	Perl module to match globbing patterns against text
 License: 	GPL+ or Artistic
 Group: 		Development/Libraries
@@ -41,6 +41,9 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.09-7
+- Mass rebuild 2013-12-27
+
 * Wed Aug 15 2012 Daniel Mach <dmach@redhat.com> - 0.09-6.1
 - Rebuild for perl 5.16
 
